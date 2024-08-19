@@ -1,3 +1,3 @@
 
 def main(input):
-  return f'Inline input value was "{input}"'
+  return f'MODIFIED: Inline input value was "{input}"'
